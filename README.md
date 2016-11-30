@@ -42,7 +42,7 @@ the prescription process.
  
  
  
- ###Snapshots
+###Snapshots
 
 --- 
 ![User login](http://dharmakshetri.com.np/img/ems/device-2016-11-30-053314.png)
