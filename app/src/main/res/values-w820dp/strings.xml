@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EMedicationSystem</string>
+    <string name="emedication_system">E-MEDICATION SYSTEM</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_ur_personal_id_number">Personal ID Number</string>
+    <string name="enter_6_digit">6 digit code </string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">Log Out</string>
+    <string name="overall_medication_list">Overall Medication List</string>
+    <string name="new_medication_details">New Medication Details</string>
+    <string name="ongoing_medication_details">Ongoing Medication Details</string>
+    <string name="past_medication_details">Past Medication Details</string>
+    <string name="some_medication_still_on_going">Some medication name still going</string>
+    <string name="new_medicine">New medicine</string>
+    <string name="ongoing_medicine">Ongoing medication and need to continue </string>
+    <string name="past_medicine">past mcines used and ended</string>
+    <string name="urlllink">http://www.felleskatalogen.no/</string>
+
+</resources>

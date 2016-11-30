@@ -1,0 +1,91 @@
+{"data":[
+   {
+        "name": "New Medication List",
+		"medicationType": "new",
+        "medicationList":
+        [
+            {
+                "name": "Drug 1",
+                "Dosage": "13 Mg"
+            },
+            {
+                "name": "Drug 2",
+                "Dosage": "3 Mg"
+            },
+			{
+                "name": "Drug 3",
+                "Dosage": "188 Mg"
+            },
+			{
+                "name": "Drug 4",
+                "Dosage": "300 Mg"
+            },
+			{
+                "name": "Drug 5",
+                "Dosage": "500 Mg"
+            }
+        ]
+       
+  },
+  {
+        "name": "Updating Medication List",
+		"medicationType": "update",
+        "medicationList":
+        [
+            {
+                "name": "U Drug 1",
+                "Dosage": "1003 Mg"
+            },
+            {
+                "name": "U Drug 2",
+                "Dosage": "3 Mg"
+            },
+			{
+                "name": "U Drug 3",
+                "Dosage": "188 Mg"
+            },
+			{
+                "name": "U Drug 4",
+                "Dosage": "300 Mg"
+            },
+			{
+                "name": "U Drug 5",
+                "Dosage": "500 Mg"
+            }
+        ]
+       
+  },
+  {
+         "name": "Past Medication List",
+	     "medicationType": "past",
+         "medicationList":
+        [
+            {
+                "name": "P Drug 1",
+                "Dosage": "1365 Mg"
+            },
+            {
+                "name": "P Drug 2",
+                "Dosage": "3 Mg"
+            },
+			{
+                "name": "P Drug 3",
+                "Dosage": "188 Mg"
+            },
+			{
+                "name": "P Drug 4",
+                "Dosage": "300 Mg"
+            },
+			{
+                "name": "P Drug 5",
+                "Dosage": "500 Mg"
+            }
+        ]
+       
+  }
+    
+]  
+}
+
+
+

@@ -1,0 +1,44 @@
+{
+  "PastMedication": [
+    {
+      "personalid": "11111111111",
+      "name": "Ram Prasad",
+      "MedicationList": [
+        {
+           "id"="1",
+                 "medicinename": "Penicilin V",
+                "dosage": "250 mg",
+                "time": "Twice a day",
+                "reason" : "tonsillitis",
+                "usage" : "9/12/2008 to 16/12/2008"
+        }
+      ]
+    },
+    {
+      "personalid": "22222222222",
+      "name": "Sita Devi",
+      "MedicationList": [
+        { "id"="1",
+                "medicinename": "Clavulanate",
+                "dosage": "500 mg",
+                "time": "Two times a day",
+                "reason" : "Penumonia",
+                "usage" : "10/10/2009 to 20/10/2009"
+        }
+    ]
+  },
+  {
+    "personalid": "33333333333",
+    "name": "Hari Bahadur",
+    "MedicationList": [
+      { "id"="1",
+                "medicinename": "Simvastitan",
+                "dosage": "40 mg",
+                "time": "Once a day",
+                "reason" : "Ischemic heart disease",
+                "usage" : "10/12/2008 to 10/01/2009"
+      }
+  ]
+}
+]
+}

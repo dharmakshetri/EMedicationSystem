@@ -1,0 +1,32 @@
+{
+    "patients": [
+        {
+                "personalid": "11111111111",
+                "name": "Ram Prasad",
+				"age": "22",
+                "email": "ram@gmail.com",
+                "address": "kathmandu, Nepal",
+                "gender" : "male",
+                "code" : "123456,654321"
+        },
+		{
+                "personalid": "22222222222",
+                "name": "Sita Devi",
+				"age": "50",
+                "email": "sita@gmail.com",
+                "address": "lalitpur, Nepal",
+                "gender" : "female",
+                "code" : "222333,333222"
+        },
+		{
+                "personalid": "33333333333",
+                "name": "Hari Bahadur",
+				"age": "10",
+                "email": "hari@gmail.com",
+                "address": "Pokhara, Nepal",
+                "gender" : "male",
+                "code" : "999666,666999"
+        }
+        
+  ]
+}
