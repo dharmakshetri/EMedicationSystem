@@ -1,12 +1,11 @@
 package co.emedicationsystem;
 
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.LinearLayout;
@@ -21,7 +20,7 @@ import co.emedicationsystem.utils.Variables;
 /**
  * Created by Dharma on 7/29/2015.
  */
-public class PastMedicationList extends Activity {
+public class PastMedicationList extends AppCompatActivity {
 	String patientId, id, type;
 
 	TextView tvPatientName, textViewLogout, tvMedicinName, tvDosase, tvTime, tvReason, tvUsage,textViewOverPast;
@@ -35,7 +34,7 @@ public class PastMedicationList extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.past_medication_details);
 		
-		getActionBar().setDisplayHomeAsUpEnabled(true);
+		//getActionBar().setDisplayHomeAsUpEnabled(true);
 		// Session class instance
 		session = new UserSessionManager(getApplicationContext());
 		findViewById();
