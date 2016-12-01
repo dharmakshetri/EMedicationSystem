@@ -55,4 +55,4 @@ the prescription process.
 
 I am an android engineer, currently located in Fremont, CA.
 
-If you have any idea and wann chat with me, please visit my blog [PrAndroid](http://www.prandroid.com) and my personal website.[DHARMAKSHETRI.COM.NP](http://dharmakshetri.com.np/)
+If you have any idea and wann chat with me, please visit my blog [PrAndroid](http://www.prandroid.com) and [CodingWorkspace](http://www.codingworkspace.com). More about me please visit my personal website:[DHARMAKSHETRI.COM.NP](http://dharmakshetri.com.np/).
