@@ -39,7 +39,9 @@ the prescription process.
 }
                                                             
  ```
- 
+ ###How to Clone EMedicationSystem?
+
+$ git clone https://github.com/dharmakshetri/EMedicationSystem.git
  
  
 ###Snapshots
