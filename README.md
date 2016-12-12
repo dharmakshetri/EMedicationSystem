@@ -4,6 +4,7 @@ E-medication has become very popular due to its ability to enhance safety and qu
 the prescription process.
 
 ###JSON Data Format
+patients data
 ```sh
 {
     "patients": [
@@ -38,9 +39,114 @@ the prescription process.
   ]
 }
                                                             
- ```
 
-
+```
+medication data
+```sh
+{
+  "CurrentMedication": [
+    {
+      "personalid": "11111111111",
+      "name": "Ram Prasad",
+      "MedicationList": [
+         {
+          "id":"1",
+          "medicinename": "Salbutamol",
+          "dosage": "180 mg",
+          "time": "5 times per day",
+          "diagnosis": "Aasthma",
+          "initiatedon": "01/01/2010",
+          "status": "Ongoing",
+          "remarks": ""
+        },
+        {
+          "id":"2",
+          "medicinename": "Oral prednisone",
+          "dosage": "40 mg",
+          "time": "once a day",
+          "diagnosis": "Aasthma",
+          "initiatedon": "01/01/2010",
+          "status": "Ongoing",
+          "remarks": ""
+        }
+      ]
+    },
+    {
+      "personalid": "22222222222",
+      "name": "Sita Devi",
+      "MedicationList": [
+       {
+        "id":"1",
+        "medicinename": "Metformin",
+        "dosage": "1000 mg",
+        "time": "three times  a day",
+        "diagnosis": "Diabetes",
+        "initiatedon": "14/12/2010",
+        "status": "New",
+        "remarks": ""
+       },
+        {
+         "id":"2",
+          "medicinename": "Amoxicillin",
+          "dosage": "500 mg",
+          "time": "twice a day",
+          "diagnosis": "Pneumonia(with diabetes mellitus type 2)",
+          "initiatedon": "05/12/2010",
+          "status": "Ongoing",
+          "remarks": ""
+        },
+        {
+        "id":"3",
+          "medicinename": "Ceftriaxone Img",
+          "dosage": "10 mg",
+          "time": "once a day",
+          "diagnosis": "Pneumonia",
+          "initiatedon": "10/12/2010",
+          "status": "Ongoing",
+          "remarks": ""
+        }
+    ]
+  },
+  {
+    "personalid": "33333333333",
+    "name": "Hari Bahadur",
+    "MedicationList": [
+      {
+      "id":"1",
+        "medicinename": "Enalapril",
+        "dosage": "5 mg",
+        "time": "once a day",
+        "diagnosis": "Ischemic heart disease",
+        "initiatedon": "10/12/2010",
+        "status": "New",
+        "remarks": ""
+      },
+      {
+      "id":"2",
+      "medicinename": "Clopidogrel(anti- platelet agent)",
+      "dosage": "100 mg",
+      "time": "once a day",
+      "diagnosis": "Ischemic heart disease",
+      "initiatedon": "05/12/2010",
+      "status": "New",
+      "remarks": ""
+    },
+      {
+      "id":"3",
+        "medicinename": "Morphine",
+        "dosage": "15-30 mg",
+        "time": "three times a day",
+        "diagnosis": "Ischemic heart disease",
+        "initiatedon": "01/01/2010",
+        "status": "Ongoing",
+        "remarks": ""
+      }
+     
+  ]
+}
+]
+}
+```
 ###How to Clone EMedicationSystem?
 
 $ git clone https://github.com/dharmakshetri/EMedicationSystem.git
