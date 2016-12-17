@@ -1,7 +1,7 @@
 # EMedicationSystem : a smartphone-based e-medication system for hospitalized patients
 
 E-medication has become very popular due to its ability to enhance safety and quality of
-the prescription process.
+the prescription process. It the simple app, where patient track their daily drug report from own hospital, it is just dem project.
 
 ###JSON Data Format
 patients data
