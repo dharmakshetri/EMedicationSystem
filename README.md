@@ -155,11 +155,11 @@ $ git clone https://github.com/dharmakshetri/EMedicationSystem.git
 ### Snapshots
 
 --- 
-![User login](http://dharmakshetri.com.np/img/ems/device-2016-11-30-053314.png)
+![User login](http://dharmakshetri.me/img/ems/device-2016-11-30-053314.png)
 ---
-![List of Drugs](http://dharmakshetri.com.np/img/ems/device-2016-11-30-053612.png)
+![List of Drugs](http://dharmakshetri.me/img/ems/device-2016-11-30-053612.png)
 ---
-![Drug Details](http://dharmakshetri.com.np/img/ems/device-2016-11-30-053639.png)
+![Drug Details](http://dharmakshetri.me/img/ems/device-2016-11-30-053639.png)
 
 ### About Me
 
