@@ -3,7 +3,7 @@
 E-medication has become very popular due to its ability to enhance safety and quality of
 the prescription process. It the simple app, where patient track their daily drug report from own hospital, it is just dem project.
 
-###JSON Data Format
+### JSON Data Format
 patients data
 ```sh
 {
@@ -147,12 +147,12 @@ medication data
 ]
 }
 ```
-###How to Clone EMedicationSystem?
+### How to Clone EMedicationSystem?
 
 $ git clone https://github.com/dharmakshetri/EMedicationSystem.git
  
  
-###Snapshots
+### Snapshots
 
 --- 
 ![User login](http://dharmakshetri.com.np/img/ems/device-2016-11-30-053314.png)
@@ -161,8 +161,8 @@ $ git clone https://github.com/dharmakshetri/EMedicationSystem.git
 ---
 ![Drug Details](http://dharmakshetri.com.np/img/ems/device-2016-11-30-053639.png)
 
-###About Me
+### About Me
 
 I am an android engineer, currently located in Fremont, CA.
 
-If you have any idea and wann chat with me, please visit my blog [PrAndroid](http://www.prandroid.com) and [CodingWorkspace](http://www.codingworkspace.com). More about me please visit my personal website:[DHARMAKSHETRI.COM.NP](http://dharmakshetri.com.np/).
+If you have any idea and wann chat with me, please visit my blog [PrAndroid](http://www.prandroid.com) and [CodingWorkspace](http://www.codingworkspace.com). More about me please visit my personal website:[DHARMAKSHETRI.me](http://dharmakshetri.me/).
